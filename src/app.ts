@@ -4,6 +4,6 @@ import twAuth from './config';
 
 const tw = new Twit(twAuth);
 
-tw.post('statuses/update', { status: 'hello world!' }, (err, data, response) => {
+tw.post('statuses/update', { status: 'hello world!' }, (err, data, resp) => {
   console.log(data);
 });
