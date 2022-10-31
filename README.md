@@ -8,3 +8,5 @@
 <p align="center">
   <img src="./images/img1.png" style="width: 75%">
 </p>
+
+> 👉 Sign up as a developer and generate your keys at [developer.twitter](https://developer.twitter.com/en/portal/dashboard)
